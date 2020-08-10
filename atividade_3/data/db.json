@@ -1,0 +1,22 @@
+{
+  "disciplinas": [
+    {
+      "id": 1,
+      "nome": "dev",
+      "curso": "SI",
+      "capacidade": 50
+    },
+    {
+      "nome": "a",
+      "curso": "j",
+      "capacidade": "j",
+      "id": 2
+    },
+    {
+      "nome": "CSGBD",
+      "curso": "Sistemas de Informação",
+      "capacidade": "50",
+      "id": 3
+    }
+  ]
+}
