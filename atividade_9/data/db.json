@@ -1,0 +1,17 @@
+{
+  "disciplinas": [
+    {
+      "nome": "Desenvolvimento de software para web",
+      "curso": "Sistemas de Informação",
+      "capacidade": "50",
+      "id": 2
+    },
+
+    {
+      "nome": "Desenvolvimento de software para web",
+      "curso": "Sistemas de Informação",
+      "capacidade": "50",
+      "id": 2
+    }
+  ]
+}
